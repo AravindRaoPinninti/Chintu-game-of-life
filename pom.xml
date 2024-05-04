@@ -209,12 +209,12 @@
 
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>Aravind-repo-snapshots</id>
+		    <id>NexusRepo</id>
 		    <url>http://107.22.146.242:8081/repository/Aravind-repo-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>Aravind-repo</id>
+		    <id>NexusRepo</id>
 		    <url>http://107.22.146.242:8081/repository/Aravind-repo/</url>
 		</repository>
   	</distributionManagement>
